@@ -60,7 +60,7 @@
 ## Zadanie 4: Usuwanie posta
 1. Utwórz zapytanie DELETE do URL: `https://jsonplaceholder.typicode.com/posts/1`.
 2. Nadaj zapytaniu nazwę `Delete Post` i zapisz w kolekcji.
-3. Przejdź do zakładki "Tests" i dodaj dwa testy:
+3. Przejdź do zakładki "Tests" i dodaj test:
 - Snippet "Status code: Code is 200" aby sprawdzić kod odpowiedzi.
 4. Wyślij zapytanie i sprawdź wyniki testów.
 
@@ -95,7 +95,7 @@
 ```
 
 3. Nadaj zapytaniu nazwę `Update Post` i zapisz w kolekcji.
-4. Przejdź do zakładki "Tests" i dodaj dwa testy:
+4. Przejdź do zakładki "Tests" i dodaj trzy testy:
 - Snippet "Status code: Code is 200" aby sprawdzić kod odpowiedzi.
 - Snippet "Response body: JSON value check" z JSONPath dla wartości `title` i oczekiwaną wartością `updated title` aby sprawdzić wartość klucza `title` w odpowiedzi.
 - Snippet "Response body: JSON value check" z JSONPath dla wartości `id` i oczekiwaną wartością `1`, aby sprawdzić, czy pole `id` w odpowiedzi ma wartość `1`.
