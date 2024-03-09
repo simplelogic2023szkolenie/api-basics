@@ -1,0 +1,35 @@
+{
+  "library": {
+    "name": "City Central Library",
+    "address": {
+      "city": "Warsaw",
+      "street": "Marshal Street 100",
+      "postal_code": "00-001"
+    },
+    "open": true,
+    "director": null,
+    "books": [
+      {
+        "title": "Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "year": 1954,
+        "genre": "Fantasy",
+        "borrowed": false
+      },
+      {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": 1937,
+        "genre": "Fantasy",
+        "borrowed": true
+      },
+      {
+        "title": "The Doll",
+        "author": "Bolesław Prus",
+        "year": 1890,
+        "genre": "Realism",
+        "borrowed": true
+      }
+    ]
+  }
+}
