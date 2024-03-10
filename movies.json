@@ -6,6 +6,7 @@
         "firstName":"Frank",
         "lastName":"Darabont"
       },
+      "year":1994,
       "genre":"DRAMA",
       "actors":[
         {
@@ -29,6 +30,7 @@
         "lastName":"Fincher"
       },
       "genre":"THRILLER",
+      "year":1995,
       "actors":[
         {
           "firstName":"Morgan",
