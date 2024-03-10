@@ -17,8 +17,7 @@ pm.collectionVariables.set("boardId", pm.response.json().id);
 
 ### 2. Create a new List - POST /1/lists
 
-[https://developer.atlassian.com/cloud/trello/rest/api-group-cards/#api-cards-post
-](https://developer.atlassian.com/cloud/trello/rest/api-group-lists/#api-lists-post)
+https://developer.atlassian.com/cloud/trello/rest/api-group-lists/#api-lists-post
   
     Dodaj do tablicy listę o nazwie DONE
     
@@ -29,8 +28,7 @@ pm.collectionVariables.set("boardId", pm.response.json().id);
     
 ### 3. Create a new List - POST /1/lists
 
-[https://developer.atlassian.com/cloud/trello/rest/api-group-cards/#api-cards-post
-](https://developer.atlassian.com/cloud/trello/rest/api-group-lists/#api-lists-post)
+https://developer.atlassian.com/cloud/trello/rest/api-group-lists/#api-lists-post
    
     Dodaj do tablicy listę o nazwie TODO
     
