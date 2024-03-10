@@ -27,7 +27,7 @@ https://developer.atlassian.com/cloud/trello/rest/api-group-lists/#api-lists-pos
     W zakładce test:
     - dodaj test sprawdzający status code
     - dodaj test sprawdzający czy nazwa listy otrzymana w response to DONE
-    - zapisz otrzymane ID listy jako zmienną kolekcji o nazwie 'doneId'
+    - zapisz otrzymane ID listy jako zmienną kolekcji o nazwie 'doneListId'
     
 ### 3. Create a new List - POST /1/lists
 
@@ -38,7 +38,7 @@ https://developer.atlassian.com/cloud/trello/rest/api-group-lists/#api-lists-pos
     W zakładce test:
     - dodaj test sprawdzający status code
     - dodaj test sprawdzający czy w body reponse atrybut closed równy jest false
-    - zapisz otrzymane ID listy jako zmienną kolekcji o nazwie 'todoId'
+    - zapisz otrzymane ID listy jako zmienną kolekcji o nazwie 'todoListId'
     
 ### 4. Create a new Card - POST /1/cards
 
