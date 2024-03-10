@@ -30,7 +30,7 @@
 3. Następnie wygeneruj nowy token, kliknij w 'token' oznaczony na zdjęciu numerem 2 i następnie przejdź przez cały proces aby wygenerować token.
 5. Skopiuj i zapisz sobie wygenerowany token w notatniku
 
-![Trello API Key](./img/trello-token-2.png)
+![Trello API Key](../img/trello-token-2.png)
 
 
 
