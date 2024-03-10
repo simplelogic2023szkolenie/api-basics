@@ -8,6 +8,9 @@ https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-p
     Stwórz tablicę, jako nazwę przekaż losowy tekst używając wybranej zmiennej dynamicznej:
     https://learning.postman.com/docs/writing-scripts/script-references/variables-list/
     
+    dodaj qyery param defaultLists=false
+
+    
     W zakładce test:
     - dodaj test sprawdzający status code
     - zapisz otrzymane ID tablicy jako zmienną kolekcji o nazwie 'boardId'
