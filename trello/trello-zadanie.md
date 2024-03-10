@@ -12,6 +12,9 @@ https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-p
     - dodaj test sprawdzający status code
     - zapisz otrzymane ID tablicy jako zmienną kolekcji o nazwie 'boardId'
 
+pm.collectionVariables.set("boardId", pm.response.json().id);
+
+
 ### 2. Create a new List - POST /1/lists
 
 [https://developer.atlassian.com/cloud/trello/rest/api-group-cards/#api-cards-post
